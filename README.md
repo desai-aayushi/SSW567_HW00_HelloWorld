@@ -1,1 +1,1 @@
-# SSW567_HW00_HelloWorld Assignment
+SSW567_HW00_HelloWorld Assignment
